@@ -1,6 +1,6 @@
 - Hey, Welcome to Easy as Py Sports 
 
-- I am a 27 year old Cybersecurity Analyst looking to break into the Sports Data Science Space.
+- I am a 27 year old Cybersecurity Analyst looking to break into the Sports Data Science space.
   
 - I will be returning to school next year(2025) pursuing a masters in Data Science through the University of Pittsburgh.
   
